@@ -1,8 +1,10 @@
 ## Synopsis
 
 pieChart.js is a script that generates a pie chart given certain values.
+A key can also be generated if a canvas with id "pieKey" is on the page.
 
 ![Example graph](https://i.imgur.com/1q8jcP7.png)
+![Example Key](https://i.imgur.com/obFyvZp.png)
 
 ## Code Example
 
